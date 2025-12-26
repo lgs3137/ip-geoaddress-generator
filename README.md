@@ -14,7 +14,7 @@
 
 ## 访问地址
 
-https://ip-geoaddress-generator.pages.dev/
+https://ip-geoaddress-generator-7su.pages.dev
 
 ## 主要功能
 
